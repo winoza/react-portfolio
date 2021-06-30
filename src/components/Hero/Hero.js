@@ -12,10 +12,9 @@ const Hero = () => (
         my name is Aldwin
       </SectionTitle>
       <SectionText>
-        I am a Full-stack Web Developer leveraging background in health science and occupational therapy 
-        to provide unique perspectives on how end-users interact with websites and software platforms. 
+        Welcome to my Portfolio!
       </SectionText>
-      <Button onClick={() => window.location = ''}>Contact</Button>
+      <Button onClick={() => window.location = 'https://google.com'}>Contact</Button>
     </LeftSection>
   </Section>
 );
