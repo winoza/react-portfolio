@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         Welcome to my Portfolio!
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Contact</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/joshuaordaz/'}>Contact</Button>
     </LeftSection>
   </Section>
 );
