@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Bffl',
     description: "MERN stack friend matchmaking application with options for filtering for location and various preferences such as shared interests, age, gender, etc.",
-      image: '/static/bffl.jpg',
+      image: '/images/bffl.jpg',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/winoza/bffl.git',
     visit: 'https://infinite-sea-39529.herokuapp.com/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'React Google Books Search',
     description: "MERN stack Google Books search application for querying, displaying, and saving books based on user searches.",
-    image: '/static/google-books-search.jpg',
+    image: '/images/google-books-search.jpg',
     tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://github.com/winoza/google-books-search.git',
     visit: 'https://enigmatic-journey-85507.herokuapp.com/',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Employee Template Generator',
     description: "Test-driven Node CLI application that dynamically renders and generates an HTML page displaying information about employees after the user answers a series of prompts.",
-      image: '/static/employee-template-generator.jpg',
+      image: '/images/employee-template-generator.jpg',
       tags: ['HTML/CSS', 'Javascript', 'Node', 'Jest'],
     source: 'https://github.com/winoza/employee-template-generator.git',
     visit: 'https://github.com/winoza/employee-template-generator.git',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'PWA Budget Tracker',
     description: "Progressive web application designed to help you track your expenses on the go!",
-    image: '/static/pwa-budget.jpg',
+    image: '/images/pwa-budget.jpg',
     tags: ['Node', 'Express', 'MongoDB', 'IndexedDB'],
     source: 'https://github.com/winoza/pwa-budget-tracker.git',
     visit: 'https://afternoon-castle-34288.herokuapp.com/',
